@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "sentence": "break a leg",
+    "pieces": ["break", "a", "leg"]
+  },
+  {
+    "id": 2,
+    "sentence": "hit the sack",
+    "pieces": ["hit", "the", "sack"]
+  },
+  {
+    "id": 3,
+    "sentence": "piece of cake",
+    "pieces": ["piece", "of", "cake"]
+  },
+  {
+    "id": 4,
+    "sentence": "once in a blue moon",
+    "pieces": ["once", "in", "a", "blue", "moon"]
+  },
+  {
+    "id": 5,
+    "sentence": "under the weather",
+    "pieces": ["under", "the", "weather"]
+  },
+  {
+    "id": 6,
+    "sentence": "when pigs fly",
+    "pieces": ["when", "pigs", "fly"]
+  },
+  {
+    "id": 7,
+    "sentence": "a blessing in disguise",
+    "pieces": ["a", "blessing", "in", "disguise"]
+  },
+  {
+    "id": 8,
+    "sentence": "call it a day",
+    "pieces": ["call", "it", "a", "day"]
+  },
+  {
+    "id": 9,
+    "sentence": "take it easy",
+    "pieces": ["take", "it", "easy"]
+  },
+  {
+    "id": 10,
+    "sentence": "a dime a dozen",
+    "pieces": ["a", "dime", "a", "dozen"]
+  },
+  {
+    "id": 11,
+    "sentence": "bite the bullet",
+    "pieces": ["bite", "the", "bullet"]
+  },
+  {
+    "id": 12,
+    "sentence": "the last straw",
+    "pieces": ["the", "last", "straw"]
+  },
+  {
+    "id": 13,
+    "sentence": "speak of the devil",
+    "pieces": ["speak", "of", "the", "devil"]
+  },
+  {
+    "id": 14,
+    "sentence": "let the cat out of the bag",
+    "pieces": ["let", "the", "cat", "out", "of", "the", "bag"]
+  },
+  {
+    "id": 15,
+    "sentence": "burn the midnight oil",
+    "pieces": ["burn", "the", "midnight", "oil"]
+  },
+  {
+    "id": 16,
+    "sentence": "hit the nail on the head",
+    "pieces": ["hit", "the", "nail", "on", "the", "head"]
+  },
+  {
+    "id": 17,
+    "sentence": "by the skin of your teeth",
+    "pieces": ["by", "the", "skin", "of", "your", "teeth"]
+  },
+  {
+    "id": 18,
+    "sentence": "kill two birds with one stone",
+    "pieces": ["kill", "two", "birds", "with", "one", "stone"]
+  },
+  {
+    "id": 19,
+    "sentence": "the calm before the storm",
+    "pieces": ["the", "calm", "before", "the", "storm"]
+  },
+  {
+    "id": 20,
+    "sentence": "actions speak louder than words",
+    "pieces": ["actions", "speak", "louder", "than", "words"]
+  }
+]

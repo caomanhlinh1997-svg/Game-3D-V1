@@ -1,0 +1,24 @@
+{
+  "puzzles": [
+    { "id": 1, "words": ["time", "is", "money"] },
+    { "id": 2, "words": ["practice", "makes", "perfect"] },
+    { "id": 3, "words": ["no", "pain", "no", "gain"] },
+    { "id": 4, "words": ["better", "late", "than", "never"] },
+    { "id": 5, "words": ["honesty", "is", "the", "best", "policy"] },
+    { "id": 6, "words": ["knowledge", "is", "power"] },
+    { "id": 7, "words": ["actions", "speak", "louder", "than", "words"] },
+    { "id": 8, "words": ["every", "cloud", "has", "a", "silver", "lining"] },
+    { "id": 9, "words": ["dont", "judge", "a", "book", "by", "its", "cover"] },
+    { "id": 10, "words": ["the", "early", "bird", "catches", "the", "worm"] },
+    { "id": 11, "words": ["a", "friend", "in", "need", "is", "a", "friend", "indeed"] },
+    { "id": 12, "words": ["beauty", "is", "in", "the", "eye", "of", "the", "beholder"] },
+    { "id": 13, "words": ["fortune", "favors", "the", "bold"] },
+    { "id": 14, "words": ["silence", "is", "golden"] },
+    { "id": 15, "words": ["when", "there", "is", "a", "will", "there", "is", "a", "way"] },
+    { "id": 16, "words": ["better", "safe", "than", "sorry"] },
+    { "id": 17, "words": ["look", "before", "you", "leap"] },
+    { "id": 18, "words": ["the", "pen", "is", "mightier", "than", "the", "sword"] },
+    { "id": 19, "words": ["actions", "have", "consequences"] },
+    { "id": 20, "words": ["easier", "said", "than", "done"] }
+  ]
+}
