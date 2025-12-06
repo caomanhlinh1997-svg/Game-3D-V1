@@ -364,7 +364,11 @@ MonoBehaviour:
   piecesParent: {fileID: 1636274388}
   slotTemplatePrefab: {fileID: 8107002135715617499, guid: ae9538065756bad40bc35da7f5bf1a7f, type: 3}
   pieceButtonPrefab: {fileID: 8746278306366293285, guid: dc6c5b1765c8f224fac041142e6ebf13, type: 3}
-  testPuzzleId: 3
+  testPuzzleId: 1
+  currentPuzzle:
+    id: 0
+    sentence: 
+    pieces: []
 --- !u!1 &668291568
 GameObject:
   m_ObjectHideFlags: 0
@@ -1167,6 +1171,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1555955014}
+  - component: {fileID: 1555955015}
   m_Layer: 0
   m_Name: PuzzleManager
   m_TagString: Untagged
@@ -1189,6 +1194,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1555955015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555955013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bcdf709520a03347be013a4536d7e49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleManager
+  winPanel: {fileID: 1433061896}
+  losePanel: {fileID: 1627024445}
+  confirmButton: {fileID: 1168695722}
 --- !u!114 &1614163135
 MonoBehaviour:
   m_ObjectHideFlags: 0
