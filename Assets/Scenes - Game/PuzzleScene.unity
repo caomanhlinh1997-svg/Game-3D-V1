@@ -364,7 +364,7 @@ MonoBehaviour:
   piecesParent: {fileID: 1636274388}
   slotTemplatePrefab: {fileID: 8107002135715617499, guid: ae9538065756bad40bc35da7f5bf1a7f, type: 3}
   pieceButtonPrefab: {fileID: 8746278306366293285, guid: dc6c5b1765c8f224fac041142e6ebf13, type: 3}
-  testPuzzleId: 1
+  testPuzzleId: 5
   currentPuzzle:
     id: 0
     sentence: 
@@ -633,14 +633,14 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 820718040}
   m_Enabled: 1
-  serializedVersion: 11
+  serializedVersion: 12
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
+  m_CookieSize2D: {x: 10, y: 10}
   m_Shadows:
     m_Type: 2
     m_Resolution: -1
@@ -1172,6 +1172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1555955014}
   - component: {fileID: 1555955015}
+  - component: {fileID: 1555955016}
   m_Layer: 0
   m_Name: PuzzleManager
   m_TagString: Untagged
@@ -1209,6 +1210,18 @@ MonoBehaviour:
   winPanel: {fileID: 1433061896}
   losePanel: {fileID: 1627024445}
   confirmButton: {fileID: 1168695722}
+--- !u!114 &1555955016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555955013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75888d414fe329042b99afd8bf35b5f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CursorFree
 --- !u!114 &1614163135
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1584,6 +1597,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -2088,6 +2102,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
